@@ -1,32 +1,57 @@
 # ClusterPilot
 
-**Controlled, repeatable and auditable Kubernetes operations — self-hosted.**
+**Automate Kubernetes. Reduce effort. Lower costs.**
 
-ClusterPilot is a proprietary platform for platform engineering, QA, DevOps and infrastructure teams that operate Kubernetes in self-hosted and on-premises environments.
+ClusterPilot is a self-hosted self-service Kubernetes platform.
 
-It provides governed workflows for:
+Companies can centrally create, scale, update, and repair Kubernetes clusters. Repetitive tasks are automated, problems are detected early, and every operation is clearly documented.
 
-- Self-service Kubernetes operations
-- Kubernetes cluster installation and lifecycle management
-- Controlled add-on operations
-- Diagnostics and traceable operation runs
-- Independent Kubernetes validation
-- Repeatable automation with clear execution evidence
+This helps platform teams save time, reduce operating and support costs, and keep full control of their infrastructure and data.
 
-ClusterPilot helps teams standardize operational work while keeping infrastructure, access and deployment responsibility under their own control.
+## What ClusterPilot helps you do
+
+* Create Kubernetes clusters through guided workflows
+* Scale clusters and manage worker capacity
+* Update Kubernetes in controlled steps
+* Detect problems and repair failed nodes
+* Install approved Kubernetes add-ons
+* Track progress, errors, logs, and results
+* Validate Kubernetes clusters independently
+* Provide controlled self-service without giving users unrestricted infrastructure access
+
+ClusterPilot runs in your own environment. There is no mandatory external SaaS control plane.
 
 ## Für deutschsprachige Teams
 
-ClusterPilot ist eine proprietäre, selbst gehostete Plattform für kontrollierte und nachvollziehbare Kubernetes-Operationen. Sie unterstützt Plattform-, DevOps-, QA- und Infrastrukturteams bei Cluster-Lifecycle, Automatisierung, Diagnose, Add-ons und technischer Validierung.
+**Kubernetes automatisieren. Aufwand reduzieren. Kosten senken.**
 
-Mehr erfahren:
+ClusterPilot ist eine selbst gehostete Self-Service-Kubernetes-Plattform.
 
-- [ClusterPilot Website](https://clusterpilot.de/)
-- [Self-Service Kubernetes](https://clusterpilot.de/de/loesungen/self-service-kubernetes)
-- [Kubernetes-Dienstleistung](https://clusterpilot.de/de/loesungen/kubernetes-dienstleistung)
-- [Alternative zu externem Managed Kubernetes](https://clusterpilot.de/de/loesungen/managed-kubernetes-alternative)
-- [Dokumentation](https://clusterpilot.de/docs)
-- [ClusterPilot auf LinkedIn](https://www.linkedin.com/company/clusterpilot-system/)
+Unternehmen können Kubernetes-Cluster zentral erstellen, skalieren, aktualisieren und reparieren. Wiederkehrende Aufgaben werden automatisiert, Fehler früh erkannt und alle Schritte nachvollziehbar dokumentiert.
+
+So sparen Plattform-Teams Zeit, reduzieren Betriebs- und Supportkosten und behalten die volle Kontrolle über ihre Infrastruktur und Daten.
+
+### Was ClusterPilot übernimmt
+
+* Kubernetes-Cluster über geführte Abläufe erstellen
+* Cluster skalieren und Worker-Kapazitäten anpassen
+* Kubernetes kontrolliert aktualisieren
+* Fehler erkennen und defekte Nodes reparieren
+* Freigegebene Kubernetes-Add-ons installieren
+* Fortschritt, Fehler, Logs und Ergebnisse nachvollziehen
+* Kubernetes-Cluster unabhängig validieren
+* Kontrollierten Self-Service ohne uneingeschränkten Infrastrukturzugriff bereitstellen
+
+ClusterPilot wird in der eigenen Umgebung betrieben. Eine verpflichtende externe SaaS-Control-Plane ist nicht erforderlich.
+
+## Mehr erfahren
+
+* [ClusterPilot Website](https://clusterpilot.de/)
+* [Self-Service Kubernetes](https://clusterpilot.de/de/loesungen/self-service-kubernetes)
+* [Kubernetes-Dienstleistung](https://clusterpilot.de/de/loesungen/kubernetes-dienstleistung)
+* [Alternative zu externem Managed Kubernetes](https://clusterpilot.de/de/loesungen/managed-kubernetes-alternative)
+* [Dokumentation](https://clusterpilot.de/docs)
+* [ClusterPilot auf LinkedIn](https://www.linkedin.com/company/clusterpilot-system/)
 
 ## Contact
 
@@ -34,4 +59,4 @@ Mehr erfahren:
 
 ---
 
-ClusterPilot is proprietary software. This public organization profile contains product information only and does not publish or license the private ClusterPilot source code.
+ClusterPilot is proprietary software. This public GitHub organization profile provides product information and public resources only. It does not publish, distribute, or license the private ClusterPilot source code.
