@@ -8,6 +8,28 @@ Companies can centrally create, scale, update, and repair Kubernetes clusters. R
 
 This helps platform teams save time, reduce operating and support costs, and keep full control of their infrastructure and data.
 
+## Open-source tool: WorldBisect
+
+**Your CI passed yesterday. Today it fails. Test what changed.**
+
+[WorldBisect](https://github.com/ClusterPilot-System/worldbisect) is our Apache-2.0
+Linux diagnostic tool. It compares successful and failing executions, changes
+supported inputs in isolated copies, and reruns the command to test the cause.
+
+Its GitHub Action can retain selected inputs from successful CI runs and reuse
+them when a later check fails. Results explain the finding, executed checks,
+confidence and next step. Unsupported or non-reproducible cases are reported
+explicitly.
+
+- [Set up CI diagnosis](https://github.com/ClusterPilot-System/worldbisect/blob/main/docs/ci-baselines.md)
+- [Try the public demo](https://github.com/ClusterPilot-System/worldbisect/actions/workflows/ci-baseline-demo.yml)
+- [Read the integration evidence](https://github.com/ClusterPilot-System/worldbisect/blob/main/docs/integration-validation.md)
+- [Ask a question or contribute](https://github.com/ClusterPilot-System/worldbisect/discussions)
+
+If it helps your workflow, consider starring the repository or sharing a
+sanitized, reproducible failure. WorldBisect is a separate open-source project;
+ClusterPilot itself remains proprietary.
+
 ## What ClusterPilot helps you do
 
 * Create Kubernetes clusters through guided workflows
